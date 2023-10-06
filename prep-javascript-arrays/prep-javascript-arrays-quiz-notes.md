@@ -12,7 +12,7 @@ After completing this exercise, you should be able to discuss or answer the foll
   The number 0 always represents the first index of an array
 
 - How can you access the last element of an array?
-  You can access the last element of an array by using array.length - 1
+  You can access the last element of an array by using array.length - 1.
 
 ## Notes
 
