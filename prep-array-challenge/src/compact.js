@@ -9,7 +9,7 @@ function compact(array) {
       element !== false &&
       element !== null &&
       !Number.isNaN(element) &&
-      !(element === 0) &&
+      !element === 0 &&
       element !== undefined &&
       element !== ''
     ) {
